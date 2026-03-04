@@ -1,4 +1,4 @@
-# Ecommerce Market Basket Analysis and Power BI Dashboard
+# Ecommerce Market Basket Analysis Analysis and Power BI Dashboard
 
 ## Executive Overview
 This project analyzes over 270,000 e-commerce sales transactions to perform a comprehensive Market Basket Analysis (MBA), offering valuable insights into product bundling, cross-selling, and customer purchasing patterns. By identifying high-value product combinations and strategic opportunities, this analysis outlines clear actions for increasing average order value, customer retention, and lifetime value, with projected improvements of **12% in AOV, 15% in CLV, and 7% in CRR.**
